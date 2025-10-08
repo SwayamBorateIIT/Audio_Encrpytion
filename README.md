@@ -57,6 +57,8 @@ This project develops a **Simulink-based Android application** that enables **se
 
 ### Contributors : Swayam Borate , Parth Dembla,Shriniket Behera
 - **Course:** EE323 Digital Signal Processing  
-- **Project Title:** Secure & Intelligent Speech Communication with Motion-Sensor Integration  
+- **Project Title:** Secure & Intelligent Speech Communication with Motion-Sensor Integration  (Course Project)
+
+  
 
 ---
